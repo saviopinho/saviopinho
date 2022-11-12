@@ -98,7 +98,7 @@
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/saviopinho" target="_blank">
+<a href="[https://linkedin.com/in/saviopinho](https://www.linkedin.com/in/s%C3%A1vio-pinho-183899224/)" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  saviopinho-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>

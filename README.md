@@ -2,7 +2,7 @@
 <h1 align="center"><b>Olá, eu me chamo Sávio Pinho </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=fullstack+developer;sempre+em+busca+de+novos+desafios+e+aprendizados,"></a>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=fullstack+developer;em+busca+de+desafios+e+aprendizados,"></a>
 </p>
 
 

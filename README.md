@@ -98,7 +98,7 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/saviopinho](https://www.linkedin.com/in/s%C3%A1vio-pinho-183899224/)" target="_blank">
+<a href="https://www.linkedin.com/in/s%C3%A1vio-pinho-183899224/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  saviopinho-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
@@ -122,11 +122,6 @@
 <br>
 <br>
 
-<div align='center'>
-
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
-
-</div>
 <br>
 <br>
 <br>
@@ -136,6 +131,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/saviopinho)
+Credit: [Sávio Pinho Nunes](https://github.com/saviopinho)
 
-Last Edited on: 09/11/2022
+Editado em: 12/11/2022
